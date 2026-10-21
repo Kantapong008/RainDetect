@@ -5,8 +5,8 @@
 #include <LiquidCrystal_I2C.h> 
 
 // 1. Wi-Fi Configuration Network Credentials
-const char ssid[] = "POCO F6";     
-const char pass[] = "last1825"; 
+const char ssid[] = "YOUR SSID HERE";     
+const char pass[] = "YOUR PASSWORD HERE"; 
 
 // 2. Hardware Object Declarations 
 Adafruit_BME680 bme; 
