@@ -1,4 +1,4 @@
-<img width="1536" height="1536" alt="image" src="https://github.com/user-attachments/assets/ef374fd5-5de7-414a-a016-a72dd49fccea" /># Physical Computing Project 2026 - IT KMITL
+# Physical Computing Project 2026 - IT KMITL
 ## RainDetect
 ### **1. รายละเอียดและจุดประสงค์ของโครงงาน** <br />
 RainDetect เป็นโครงงานระบบติดตามสภาพแวดล้อมและประเมินความเสี่ยงที่อาจเกิดฝน โดยใช้ Arduino UNO R4 ร่วมกับเซนเซอร์ BME680 และจอ LCD พร้อมเว็บไซต์สำหรับแสดงข้อมูลสภาพแวดล้อมและผลการประเมินความเสี่ยงฝน <br />
