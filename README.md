@@ -30,11 +30,11 @@ RainDetect เป็นโครงงานระบบติดตามสภ
 - ความกดอากาศ หน่วยเฮกโตปาสคาล (hPa) <br />
 - ผลการประเมินความเสี่ยงฝนบนเว็บไซต์ <br />
 - ข้อมูลสภาพแวดล้อมบนจอ LCD <br />
-### **VDO Link** <br />
+## **VDO Link** <br />
 https://youtu.be/MaU091kR3ZA <br />
 ### **Poster**
 ![Poster for RainDetect](https://github.com/Kantapong008/RainDetect/blob/main/Phycom%20mini%20Project.pdf)
-### **Members**
+## **Members**
 **นายกฤษฎา ประทุมมา รหัสนักศึกษา 68070005** <br />
 **นายกานตพงศ์ กาโพธิ์พันธ์ รหัสนักศึกษา 68070008** <br />
 **นายจักรี บุญโคกล่าม รหัสนักศึกษา 68070012** <br />
